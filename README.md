@@ -1,6 +1,4 @@
-click this link to show the project :http://localhost:3003/
 
-https://shoaibahmed230.github.io/todo-react-app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
