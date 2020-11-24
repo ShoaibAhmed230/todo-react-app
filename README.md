@@ -1,4 +1,4 @@
-https://shoaibahmed230.github.io/todo-react-app/ 
+deployment link https://react-todo-app-867d3.web.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
